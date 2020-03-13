@@ -1,2 +1,2 @@
 # Exploration
-This is where I do some self-challenges and self-learning. ^^
+This is where I do some self-challenges and self-learning :relaxed:
