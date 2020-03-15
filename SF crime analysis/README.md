@@ -2,7 +2,7 @@
 
 This project is writen in Databricks in PySpark ,maily used SQL.
 
-> [Here is the link direct to Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/540319491725148/2095490722557233/769384606881183/latest.html)
+> [Here is the project link directly to Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/540319491725148/2095490722557233/769384606881183/latest.html)
 
 ## Table of contents
   - Objective
