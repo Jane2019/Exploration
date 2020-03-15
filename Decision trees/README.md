@@ -10,6 +10,7 @@ Build the decision tree to classify fake news and real news according to news he
 Use the scikit-learn decision tree classifier to classify real vs. fake news headlines.
 
 * Datasets
+
   - clean_real.txt
   - clean_fake.txt
   
