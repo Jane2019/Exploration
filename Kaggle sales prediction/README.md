@@ -1,5 +1,5 @@
 ## Kaggle challenge to predict future sales
-> :point_right: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
+> :point_right: [Kaggle project link](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
 Due to the document size limit, *sales_train* can be found in the link above.
 
