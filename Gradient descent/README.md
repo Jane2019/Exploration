@@ -4,7 +4,7 @@ This project takes a dataset that has 16 features and try to build a multivarian
 
 * Direct solution by solving the formula
   
-  ![image](http://www.sciweavers.org/tex2img.php?eq=w%20%3D%20%28X%5ETX%29%5E%7B-1%7DX%5ETt&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0)
+  ![images](http://www.sciweavers.org/tex2img.php?eq=w%20%3D%20%28X%5ETX%29%5E%7B-1%7DX%5ETt&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=0)
 
 * Using cost function:
 
