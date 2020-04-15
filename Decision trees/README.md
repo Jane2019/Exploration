@@ -23,9 +23,9 @@ A dataset of 1298 "fake news" headlines (which mostly include headlines of artic
   - Grid search to tune hyperparameters
   - Graphviz to visualize tree structure
 
-# Paper review
+# Random forests VS. Decision trees
 
-Differences between random forests and decision trees:
+Thanks to the great paper, here are something I learnt.
 
 **Decision tree is a single classifier consisting of one tree only while random forests ensemble several decision trees using randomly picked features for one same classification task.**
 
