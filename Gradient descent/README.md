@@ -1,10 +1,8 @@
 # Linear regression and Gradient descent
 
-This project takes a dataset that has 16 features and try to build a multivariant linear regression by:
+This project takes a house price dataset in Boston that has 16 features and try to build a multivariant linear regression by:
 
 * Direct solution by solving the formula
-
-* Using cost function
 
 * Find solution by gradient descent
 
