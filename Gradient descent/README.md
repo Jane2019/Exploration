@@ -1,4 +1,4 @@
-# Linear regression and Gradient descent
+# Linear regression with GD project
 
 This project takes a house price dataset in Boston that has 16 features and try to build a multivariant linear regression by:
 
