@@ -23,7 +23,7 @@ This project takes a house price dataset in Boston that has 16 features and try 
   - How to choose hyparameters
   - Adaptive learning rate methods (Time-decay)
 
-# Paper review
+# Gradient descent
 
 Thanks to the great paper, here are something I learnt.
 
