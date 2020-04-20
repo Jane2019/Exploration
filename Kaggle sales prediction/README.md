@@ -28,7 +28,7 @@ Also found top best-sellers and worst-sellers and sales seasonality to provide b
   - GBT
   - Feature importances
 
-It is proved that price and place is the most crucial factors for predicting the sales, which complys with the marketing strategy.
+**It is proved that price and place is the most crucial factors for predicting the sales, which complys with the marketing strategy.**
 
 * Future work
   - Tune hyperparameter in GBT
