@@ -7,7 +7,9 @@ Due to the document size limit, *sales_train* can be found in the link above.
 * Objectives
 
 This project is to practice data explanatory and some useful machine learning algorithms.
+
 Given the stores sales, item informations over some years to predict future sales for each store and each item.
+
 Also found top best-sellers and worst-sellers and sales seasonality to provide business recommendations.
 
 * Datasets
@@ -23,9 +25,11 @@ Also found top best-sellers and worst-sellers and sales seasonality to provide b
   - Data filling
   - Label Encoding
   - Scaler
-  - Cross-validation
   - GBT
+  - Feature importances
+
+It is proved that price and promotion
 
 * Future work
   - Tune hyperparameter in GBT
-  - Time series model
+  - Try time series model (e.g LSTM model)
