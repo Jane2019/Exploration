@@ -18,7 +18,7 @@ The aim is to analyze the APP user behaviors over time (date, hour duration) and
   
   - Groupby and map/apply/lambda function.
   
-* Conclusion (in the dataset)
+* Conclusion
 
   - 67% users are active on 12 Dec, the Chinese shopping holiday, much more than any other time.
   
