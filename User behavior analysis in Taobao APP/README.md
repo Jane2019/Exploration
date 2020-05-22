@@ -1,6 +1,6 @@
 # User behavior analysis in Taobao APP
 
-The dataset can be found in the notebook, however, the original dataset contains 1M+ data points, I only select part of them for a try.
+The dataset can be found in the notebook.
 
 ## Table of contents
 
