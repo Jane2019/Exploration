@@ -28,4 +28,4 @@ The aim is to analyze the APP user behaviors over time (date, hour duration) and
   
   - Users usually rebuy no more than 10 days after they first buying.
   
-  - The user missing percentage in each behaviour duration (total or for each item category) can be analyzed.
+  - The user lossing rate in each behaviour duration (overall and for each item category) can be analyzed.
