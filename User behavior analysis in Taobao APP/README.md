@@ -6,6 +6,8 @@ After I cleaned and explored the dateset in Python, I also created dashboards an
 
 [Have a look here!](https://public.tableau.com/profile/jane.g6560#!/vizhome/userbehavioranalysis/Analysis)
 
+I will put a screan shot at the bottom for a quick view.
+
 ## Table of contents
 
 * Objective
