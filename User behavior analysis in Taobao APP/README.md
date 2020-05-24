@@ -6,7 +6,7 @@ After I cleaned and explored the dateset in Python, I also created dashboards an
 
 [Have a look here!](https://public.tableau.com/profile/jane.g6560#!/vizhome/userbehavioranalysis/Analysis)
 
-I will put a screan shot at the bottom for a quick view.
+I will put one of screan shots at the bottom for a quick view.
 
 ## Table of contents
 
@@ -35,3 +35,6 @@ The aim is to analyze the APP user behaviors over time (date, hour duration) and
   - Users usually rebuy no more than 10 days after they first buying.
   
   - The user lossing rate in each behaviour duration (overall and for each item category) can be analyzed.
+ 
+ <p align="center">
+ <img src='Images/Analysis-2.png' width='700'>
