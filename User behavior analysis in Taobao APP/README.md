@@ -2,6 +2,10 @@
 
 The dataset can be found in the notebook.
 
+After I cleaned and explored the dateset in Python, I also created dashboards and story in Tableau for interactive use.
+
+[Have a look here!](https://public.tableau.com/profile/jane.g6560#!/vizhome/userbehavioranalysis/Analysis)
+
 ## Table of contents
 
 * Objective
