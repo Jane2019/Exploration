@@ -12,6 +12,14 @@ Utilized EDA to find out some business insight, give suggestion on fuel effectiv
 
 - Good points
 
+  - EDA
+  - Feature selection
+  - Pipelines
+  - PCA
+  - Regression
+  
+In conclusion, electric vehicles are fuel effective but cost relative higher than normal vehicles.
 
 - Future work
 
+  - Tune hyperparameters
